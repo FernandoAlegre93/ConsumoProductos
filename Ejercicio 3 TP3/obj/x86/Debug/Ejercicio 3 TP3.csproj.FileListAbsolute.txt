@@ -1,0 +1,12 @@
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 3 TP3\bin\Debug\Ejercicio 3 TP3.exe
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 3 TP3\bin\Debug\Ejercicio 3 TP3.pdb
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 3 TP3\obj\x86\Debug\Ejercicio 3 TP3.exe
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 3 TP3\obj\x86\Debug\Ejercicio 3 TP3.pdb
+E:\Ferchabbita\Escritorio\Isft\Programacion 2\Ejercicios TP3\Ejercicio 3 TP3\Ejercicio 3 TP3\obj\x86\Debug\Ejercicio 3 TP3.exe
+E:\Ferchabbita\Escritorio\Isft\Programacion 2\Ejercicios TP3\Ejercicio 3 TP3\Ejercicio 3 TP3\obj\x86\Debug\Ejercicio 3 TP3.pdb
+C:\Users\Fer\Desktop\Nueva carpeta\Ejercicio 3 TP3\Ejercicio 3 TP3\bin\Debug\Ejercicio 3 TP3.exe
+C:\Users\Fer\Desktop\Nueva carpeta\Ejercicio 3 TP3\Ejercicio 3 TP3\bin\Debug\Ejercicio 3 TP3.pdb
+C:\Users\Fer\Desktop\Nueva carpeta\Ejercicio 3 TP3\Ejercicio 3 TP3\obj\x86\Debug\Ejercicio 3 TP3.csprojAssemblyReference.cache
+C:\Users\Fer\Desktop\Nueva carpeta\Ejercicio 3 TP3\Ejercicio 3 TP3\obj\x86\Debug\Ejercicio 3 TP3.csproj.CoreCompileInputs.cache
+C:\Users\Fer\Desktop\Nueva carpeta\Ejercicio 3 TP3\Ejercicio 3 TP3\obj\x86\Debug\Ejercicio 3 TP3.exe
+C:\Users\Fer\Desktop\Nueva carpeta\Ejercicio 3 TP3\Ejercicio 3 TP3\obj\x86\Debug\Ejercicio 3 TP3.pdb
